@@ -1,0 +1,57 @@
+mysteryclass no1
+ismétlés:
+	elektrotechnika:
+		összefüggés, képlet
+		0 es inf
+		ie: 
+			0*a es inf*a
+			a/0 es a/inf
+		ohmslaw:
+			R=U/I, I=U/R
+		differenciálegyenletek és a limit
+		feszültségforrás: generátor
+			ideálisnál nincs belső ellenállás
+számítógépes szimuláció:
+	szimulációelmélet:
+		áramköröket szimulálunk
+		ezáltal betekintést nyerünk a működésükben
+		analóg és digitális
+		előnyök:
+			nincs alkatrészigény
+			nagyteljesítményű áramkörök
+			a tesztelésnél nem teszünk tönkre alkatrészeket
+			prototípusoknál fasza
+			gyorsabb tesztelés
+			áramkörtervezés ideje lerövidül
+			lehet mérni (analizálni)
+			fizikai méretet lehet szimulálni
+			lehet saját alkatrészt csinálni (e.g. SPICE)
+			könnyen módosítható
+			fájlrendszer (archiválható)
+			reprodukálható (egész)
+		hátrányok:
+			drága
+			bugok
+			virtuális és a valós alkatrészek közötti eltérés
+
+prototípuskészítés -> prototípustesztelés -> prototípusgyártás: protoboard ->
+	valós áramkör tesztelése -> sorozatgyártás
+
+szimuláció lépései:
+	kapcsolási rajz: áramkör grafikus megadása
+	modelkönyvtár: jelforrások, nemlineáris félvezetők
+	vezérlőparancsok: menürendszer
+
+szimuláció típusai:
+	köll: gerjesztés: egyenfesz, váltakozó, töredezett
+	DC analízis:
+		egyenáramú
+		munkapont
+	AC analízis:
+		váltakozó: pl. szinusz
+		amplitúdó, fázishelyzet, frekvencia, frekvenciamenet
+	tranziens analízis: (átmeneti)
+		periodikus gerj. -> átmeneti állapot -> állandósult
+		=> diferenciálegyenletekkel
+	Fourier analízis: None
+	Monte Carlo analízis: None
