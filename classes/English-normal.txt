@@ -950,4 +950,16 @@ XXth lesson, 2026/01/08:
           1: He had bought her the headphones when she asked.
           2: She asked Tom if he would meet her after work.
           3: Rick asked me whether I was angry with him.
-          4: 
+          4: He asked them why they hadn't switched off the computer.
+          5: She asked us what we were doing.
+          6: They asked him if he could repair their plane.
+        3:
+          1: He asked me if I had watched the TV programme about inventors the night before.
+          2: She asked John why he wasn't answering her calls.
+          3: Sophie asked her mother if she was happy with her new tablet.
+          4: He asked me if I could help him with his homework.
+          5: They asked him whether he had decided where to go on holiday.
+          6: He asked her who would be responsible for this project.
+      125/4-7:
+        4:
+          
