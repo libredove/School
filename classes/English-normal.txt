@@ -961,5 +961,24 @@ XXth lesson, 2026/01/08:
           5: They asked him whether he had decided where to go on holiday.
           6: He asked her who would be responsible for this project.
       125/4-7:
-        4:
-          
+        5:
+          1: to leave
+          2: ---
+          3: to read
+          4: should write
+          5: watching
+          6: not taking
+          7: not to go
+        6:
+          1: persuaded
+          2: reassured
+          3: warned
+          4: 
+        7:
+          1: She recommended getting a new camera.
+          2: The teacher forbade using the science lab at lunchtime.
+          3: She congratulated passing the driving test.
+          4: I confessed to eating their sandwich.
+          5: He promised to buy a new bag for them tomorrow.
+          6: He invited me to come to that science show with him.
+          7: She refused to drive me to college that day.
