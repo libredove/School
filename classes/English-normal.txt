@@ -982,3 +982,16 @@ XXth lesson, 2026/01/08:
           5: He promised to buy a new bag for them tomorrow.
           6: He invited me to come to that science show with him.
           7: She refused to drive me to college that day.
+57th lesson, 2026/02/05:
+  StB: 59/1-4:
+    1:
+      1: 1. --- 2. blindness 3. hearing loss/deaf 4. ---
+      2: challenging
+      3: run, read, listen
+    2:
+      1: mobility scooter, ramps, carer, stairlift
+      2: Braille, carer, text-reading software, guide dog, cane
+      3: hearing aid, carer, subtitles, sign language
+      4: carer, therapist
+  StB: 60/5: Coping with exam stress
+    
